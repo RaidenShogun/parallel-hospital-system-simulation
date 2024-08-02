@@ -16,7 +16,7 @@ A simple simulation system that mimic the whole process of a treatment, used to 
 **Specialist** : A highly skilled medical professional who provides treatment to patients assessed as having severe conditions. Could leave treatment periodically and come back.
 
 **Orderly** : Support staff who assist nurses in transferring patients between different locations within the ED (e.g., from the foyer to triage, or triage to treatment).
-# How does is work?
+# How does it work?
 1. Clone this project to your device.
 2. cd to the directory you've downloaded this project, then type __javac *.java__ to compile java files.
 3. Type __java Main__ to run
